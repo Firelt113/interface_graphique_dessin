@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\felix\Documents\ETS\projet_perso\interface_graphique_dessin\interface_graphique_dessin\simulate.h(7,16): warning C4091: 'typedef ' : ignoré à gauche de 'Image' quand aucune variable n'est déclarée
+  (compiler le fichier source 'Source.cpp')
+  
+C:\Users\felix\Documents\ETS\projet_perso\interface_graphique_dessin\interface_graphique_dessin\simulate.h(13,16): warning C4091: 'typedef ' : ignoré à gauche de 'Noeud' quand aucune variable n'est déclarée
+  (compiler le fichier source 'Source.cpp')
+  
+C:\Users\felix\Documents\ETS\projet_perso\interface_graphique_dessin\interface_graphique_dessin\simulate.h(18,16): warning C4091: 'typedef ' : ignoré à gauche de 'ChaineStack' quand aucune variable n'est déclarée
+  (compiler le fichier source 'Source.cpp')
+  
+  interface_graphique_dessin.vcxproj -> C:\Users\felix\Documents\ETS\projet_perso\interface_graphique_dessin\interface_graphique_dessin\x64\Debug\interface_graphique_dessin.exe
